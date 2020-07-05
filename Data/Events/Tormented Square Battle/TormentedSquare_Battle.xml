@@ -63,9 +63,9 @@
 	<ChaosGoblinAppearanceRate>
 		<Round Number="1" SpawnRate="0" />
 		<Round Number="2" SpawnRate="0" />
-		<Round Number="3" SpawnRate="30" />
+		<Round Number="3" SpawnRate="100" />
 		<Round Number="4" SpawnRate="0" />
 		<Round Number="5" SpawnRate="0" />
-		<Round Number="6" SpawnRate="30" />
+		<Round Number="6" SpawnRate="100" />
 	</ChaosGoblinAppearanceRate>
 </TormentedSquareBattle>
